@@ -1,0 +1,26 @@
+body {
+	
+	color:rgba(9,200,18,.3);
+}
+li {
+	border-color:blue;
+	width:500px;
+	position:center;
+	height:3em;
+	font-size:50px;
+	color:#4D413F;
+}
+.CONTAC {font-size:50px;
+	color:#4D413F;
+
+  }
+
+  p {
+  	margin-left: 50px;
+  	border-t
+  	  	border-color: #563A36;
+  }
+
+  span {
+  	border-color: green;
+  }
